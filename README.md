@@ -45,6 +45,10 @@
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img  alt="PHP" src ="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=php&logoColor=white"/>
   <img  alt="ASP.NET" src ="https://img.shields.io/badge/ASP.NET-14354C?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img  alt="TypeScript" src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img  alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img  alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img  alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
  
 </div>
 
@@ -59,7 +63,8 @@
   <img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-
+  <img  alt="Adove Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  <img  alt="Adoble Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white****"/>
  </div>
  
 <br><br>
@@ -77,7 +82,18 @@
   <p align="right">
     <a href="https://github.com/atccmc12?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
   </p>
-  
+
+<h2>Social Media</h2>
+
+<a href="https://www.linkedin.com/in/thomas-castillo-a13b67220/">
+  <img  alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:atccmc12@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="http://discordapp.com/users/368159125122580480">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 <br><br><br>
 
